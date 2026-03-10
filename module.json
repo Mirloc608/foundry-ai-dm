@@ -1,0 +1,14 @@
+{
+  "id": "foundry-ai-dm",
+  "title": "AI Dungeon Master",
+  "description": "An intelligent assistant for Foundry VTT.",
+  "version": "0.1.0",
+  "authors": [{ "name": "David" }],
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/main.css"],
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "url": "https://github.com/YOURNAME/foundry-ai-dm",
+  "manifest": "https://raw.githubusercontent.com/YOURNAME/foundry-ai-dm/main/module.json",
+  "download": "https://github.com/YOURNAME/foundry-ai-dm/archive/refs/heads/main.zip"
+}
